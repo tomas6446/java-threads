@@ -1,0 +1,12 @@
+
+{
+java:S2142%"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ºêªôÇ1
+F	java:S106)"+Replace this use of System.out by a logger.(‹Õìg8ºêªôÇ1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8õÔ«ôÇ1
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8õÔ«ôÇ1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8õÔ«ôÇ1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8õÔ«ôÇ1

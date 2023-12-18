@@ -1,0 +1,13 @@
+
+n
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¯›îŞùÿÿÿÿ8¦‡ôÇ1
+i
+java:S2095#"GUse try-with-resources or close this "CSVParser" in a "finally" clause.(ğëü€ÿÿÿÿÿ8¦‡ôÇ1
+W
+java:S6213&":Rename this variable to not match a restricted identifier.(‚œ•à8ƒÛ†ôÇ1
+W
+java:S62132":Rename this variable to not match a restricted identifier.(²˜¹ú8…Û†ôÇ1
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8­‡ôÇ1
+Q
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8­‡ôÇ1
